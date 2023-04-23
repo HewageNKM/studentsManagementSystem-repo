@@ -6,4 +6,4 @@ Features
 
 >> Add, Remove and Update Students,Marks.
 
->> View Ranking, Average and Sum.
+>> View Student details and marks related report.
